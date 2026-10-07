@@ -1,1 +1,1 @@
-Titanic Survival prediction from Kaggle Dataset
+Titanic Survival prediction on Kaggle Dataset
